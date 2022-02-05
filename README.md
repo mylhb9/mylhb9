@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7BD1D2&height=300&section=header&text=Beomin%20GitHub💻&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Beomin%20GitHub💻&fontSize=70)
 
 
 [![](https://raw.githubusercontent.com/mylhb9/mylhb9/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
